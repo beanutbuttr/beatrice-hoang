@@ -1,0 +1,22 @@
+body {
+
+	text-align: center;
+
+}
+
+.artImages img {
+
+	width: 30%;
+	vertical-align: top;
+	margin-top: 4px;
+
+}
+
+
+
+#pano img{
+
+	width: 100%;
+	margin: 4px;	
+}
+

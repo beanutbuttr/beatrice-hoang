@@ -1,0 +1,41 @@
+body {
+        background-color: rgb(255, 240, 232);
+        color: rgb(183, 171, 165);
+        /*rgb(56, 56, 56);*/ 
+        margin-left: 20%;
+        margin-right: 20%;
+        font-family: 'PT Sans', sans-serif;
+        font-size: 1.2vw;
+        line-height: .5;
+      }
+      
+      #heading {
+        line-height: 1.2;
+      }
+      
+      #main {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+  }
+      
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+
+#shopIcon {
+	width: 16px;
+	
+}
+
+
+ /*     #main-picture {
+        margin-right: 20%;
+        text-align: right;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+
+      }*/

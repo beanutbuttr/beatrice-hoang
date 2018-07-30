@@ -1,0 +1,28 @@
+body {
+        background-color: rgb(255, 240, 232);
+        color: rgb(183, 171, 165);
+        /*rgb(56, 56, 56);*/ 
+        margin-left: 20%;
+        margin-right: 20%;
+
+	margin-bottom: 5%;
+        font-family: 'PT Sans', sans-serif;
+        font-size: 1.3vw;
+      }
+p {
+	line-height: 2;
+      }
+.tabHeading {
+	color: rgb(56, 56, 56);
+}
+
+.infoBg{
+	position: absolute;
+	padding: 6px 25px;
+	background-color: rgba(255,255,255,0.4);
+        margin-left: -10%;
+	margin-right: 10%;
+	margin-top: 40px;
+	margin-bottom: 5%;
+	color: black;
+}

@@ -1,0 +1,32 @@
+.logo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	margin-top: 40px;
+}
+
+
+div.tabBar {
+    display: table;
+    width: 100%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+div.tabBar span {
+    display: table-cell;
+    text-align: center;
+}
+
+.tabBar {
+	margin-top: 30px;
+}
+
+a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+hr {
+	border: .5px solid gray;
+
+}
